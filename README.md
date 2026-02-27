@@ -1,8 +1,8 @@
-# Robotics-GPT 🤖
+# Robotics-GPT 
 
 A lightweight, 13-million parameter GPT model trained entirely from scratch on ArXiv robotics and machine learning abstracts. 
 
-**Note:** This project was built primarily as an educational exercise to implement and understand Attention mechanisms and Transformer architectures from the ground up using PyTorch.
+**Note:** This project was built primarily as an educational exercise to implement and understand Attention mechanisms and Transformer architectures from the ground up using PyTorch only.
 
 [![Model Weights](https://img.shields.io/badge/Download-Model_Weights-blue?logo=googledrive)](https://drive.google.com/file/d/1MJMiDftRj9BYC1O1oLJeakEYN6TY04UC/view?usp=sharing)
 
