@@ -1,6 +1,10 @@
 
 # Robotics-GPT — 13M Parameter Language Model
 [![Model Weights](https://img.shields.io/badge/Download-Model_Weights-blue?logo=googledrive)](https://drive.google.com/file/d/1MJMiDftRj9BYC1O1oLJeakEYN6TY04UC/view?usp=sharing)
+
+
+
+
 A GPT-style language model trained from scratch on ArXiv robotics 
 and ML research abstracts.
 
