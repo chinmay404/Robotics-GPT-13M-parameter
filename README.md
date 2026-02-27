@@ -1,6 +1,7 @@
 # Robotics-GPT
 
 13M parameter GPT trained from scratch on 12,664 ArXiv robotics/ML abstracts.
+**its Just for learning attention and Trasnformer from scratch **
 
 ## Architecture
 - Transformer: 4 layers, 4 heads, d_model=128
